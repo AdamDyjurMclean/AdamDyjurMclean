@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a class="header-badge" target="_blank" href="https://www.codewars.com/users/AdamDyjurMclean">
+      <img alt="Codewars badge" src="https://www.codewars.com/users/AdamDyjurMclean/badges/micro">
+  </a>
 <!--
 **AdamDyjurMclean/AdamDyjurMclean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
